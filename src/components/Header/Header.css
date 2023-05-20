@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+  align-items: center;
+  background-color:rgb(20, 24, 88); ;
+}
+.header h3{
+    padding-left: 10px;
+    color:#7bbdf7;
+}
+.header h2{
+    padding-left: 10px;
+    color: rgba(250, 69, 217, 0.925);
+}

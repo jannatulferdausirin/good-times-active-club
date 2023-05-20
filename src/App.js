@@ -1,11 +1,13 @@
 import './App.css';
 import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header';
 
 
 function App() {
   return (
     <div>
-      <h2>This is good times active club</h2>
+      
+      <Header></Header>
       <Footer></Footer>
       </div>
       
