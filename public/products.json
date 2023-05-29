@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "time": 35,
+    "name": "Fitness Plus",
+    "picture": "https://thumbs.dreamstime.com/b/yoga-meditation-concept-woman-silhouette-healthy-meditating-pose-back-view-sun-light-rays-56996585.jpg",
+    "price": 50,
+    "description": "Join Fitness Plus for a high-intensity workout program designed to help you achieve your fitness goals."
+  },
+  {
+    "id": "2",
+    "time": 42,
+    "name": "Iron Gym",
+    "picture": "https://media.istockphoto.com/id/108220016/photo/silhouette-of-woman-doing-yoga-pose-on-beach-at-sunset.jpg?s=612x612&w=0&k=20&c=x4uIV8xqDzkM0XXBN4peakj08fPtNjUPxO1JQbtBE1A=",
+    "price": 75,
+    "description": "Get strong and build muscle at Iron Gym with our state-of-the-art equipment and expert trainers."
+  },
+  {
+    "id": "3",
+    "time": 59,
+    "name": "FitLife Fitness Center",
+    "picture": "https://www.shutterstock.com/image-photo/young-beautiful-yoga-posing-on-260nw-403373908.jpg",
+    "price": 60,
+    "description": "FitLife Fitness Center offers a variety of classes and personalized training options to help you stay fit and healthy."
+  },
+  {
+    "id": "4",
+    "time": 46,
+    "name": "Body Sculpt",
+    "picture": "https://www.shutterstock.com/image-photo/young-indian-girl-working-out-260nw-2133599823.jpg",
+    "price": 55,
+    "description": "Shape your body and achieve a toned physique with our Body Sculpt program that combines strength training and cardio exercises."
+  },
+  {
+    "id": "5",
+    "time": 76,
+    "name": "FlexFit Gym",
+    "picture": "https://www.shutterstock.com/image-photo/portrait-teenage-girl-practising-yoga-260nw-682266328.jpg",
+    "price": 65,
+    "description": "FlexFit Gym offers a range of classes, from yoga to kickboxing, to cater to all fitness levels and preferences."
+  },
+  {
+    "id": "6",
+    "time": 53,
+    "name": "Core Fitness Studio",
+    "picture": "https://www.shutterstock.com/image-photo/young-indian-girl-doing-yoga-260nw-2132445923.jpg",
+    "price": 45,
+    "description": "Join Core Fitness Studio for core-focused workouts that will strengthen your abs, back, and overall stability."
+  },
+  {
+    "id": "7",
+    "time": 31,
+    "name": "Power Lift Gym",
+    "picture": "https://www.shutterstock.com/image-photo/indianstyle-woman-performs-yoga-poses-260nw-1521254780.jpg",
+    "price": 70,
+    "description": "Power Lift Gym is the perfect place for weightlifters and strength enthusiasts looking to push their limits."
+  },
+  {
+    "id": "8",
+    "time": 68,
+    "name": "Cardio Zone",
+    "picture": "https://www.shutterstock.com/image-photo/young-woman-breathing-yoga-pose-260nw-1349270543.jpg",
+    "price": 40,
+    "description": "Achieve your cardiovascular fitness goals at Cardio Zone with our diverse range of cardio machines and classes."
+  },
+  {
+    "id": "9",
+    "time": 71,
+    "name": "CrossFit Fusion",
+    "picture": "https://www.shutterstock.com/image-photo/girl-doing-yoga-nature-young-600w-654130741.jpg",
+    "price": 80,
+    "description": "Experience the high-intensity workouts and camaraderie of CrossFit Fusion for a total body transformation."
+  },
+  {
+    "id": "10",
+    "time": 63,
+    "name": "Another Gym",
+    "picture": "https://www.shutterstock.com/image-photo/yoga-forest-young-women-spring-260nw-1150334048.jpg",
+    "price": 55,
+    "description": "lorem."}
+  ]

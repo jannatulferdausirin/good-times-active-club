@@ -1,7 +1,7 @@
 .header{
     display: flex;
   align-items: center;
-  background-color:rgb(20, 24, 88); ;
+  background-color:rgb(20, 24, 88); 
 }
 .header h3{
     padding-left: 10px;
@@ -9,5 +9,5 @@
 }
 .header h2{
     padding-left: 10px;
-    color: rgba(250, 69, 217, 0.925);
+    color: rgba(233, 170, 54, 0.925);
 }
