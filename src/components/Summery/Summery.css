@@ -1,0 +1,69 @@
+.cart-container {
+    position: sticky;
+    top: 0px;
+    padding: 30px 20px;
+}
+
+.cart-container img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info p {
+    font-size: 23px;
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.break-info {
+    background-color: rgb(195, 220, 241);
+    border-radius: 20px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.break-info p {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: rgba(235, 181, 80, 0.925)
+}
+
+.exercise-info {
+    margin-top: 40px;
+}
+
+.time {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(235, 181, 80, 0.925);
+    margin-top: 15px;
+    border-radius: 14px;
+    font-weight: bold;
+}
+
+.btn button {
+    width: 100%;
+    padding: 10px 20px;
+    color: #7bbdf7;
+    font-weight: bold;
+    font-size: 23px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background-color: rgb(2, 28, 77);
+
+}
+.btn button:hover{
+    background-color: rgba(235, 181, 80, 0.925);
+    color:  rgb(2, 28, 77);
+}

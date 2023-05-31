@@ -1,7 +1,7 @@
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
-import Shop from './components/Shop/Shop';
+import Home from './components/Home/Home';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div>
       
       <Header></Header>
-      <Shop></Shop>
+      <Home></Home>
       <Footer></Footer>
       </div>
       
